@@ -1,6 +1,6 @@
 <h1>ExpNo 7 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name:   MADHAN BABU P  </h3>
-<h3>Register Number: 212222230075         </h3>
+<h3>Name: GANESH R  </h3>
+<h3>Register Number: 212222240029      </h3>
 <H3>Aim:</H3>
 <p>
 Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game
